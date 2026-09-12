@@ -4,3 +4,6 @@
 #0912本地仓库，版本B
 def test_api():
     print('不同目录下')
+
+def test():
+    print('github Pull request')
