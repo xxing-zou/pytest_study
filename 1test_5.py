@@ -1,5 +1,9 @@
 #跨目录，只能向上找，不会去找子目录
 #0912做修改
 #0912网页修改，版本A
+#0912本地仓库，版本B
 def test_api():
     print('不同目录下')
+
+def test():
+    print('github Pull request')
